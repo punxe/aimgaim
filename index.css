@@ -1,0 +1,13 @@
+.title {
+    font: 20px Helvetica;
+    display:flex;
+    justify-content: center; 
+}
+.game {
+    display:flex;
+    justify-content: center;
+
+}
+#gameCanvas{
+    border: 3px solid black;
+}
